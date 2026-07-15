@@ -1,6 +1,6 @@
 # greenlin
 
-cd greenlin-bot
+cd greenlin
 
 python -m venv venv
 
